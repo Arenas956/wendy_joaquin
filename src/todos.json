@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "año": "task1",
+      "nconsejo": "wendy",
+      "description": "lorem impsum",
+      "priority": "low"
+    },
+    {
+      "año": "task2",
+      "nconsejo": "alex",
+      "description": "lorem impsum",
+      "priority": "medium"
+    },
+    {
+      "año": "task3",
+      "nconsejo": "joaquin",
+      "description": "lorem impsum",
+      "priority": "high"
+    }
+  ]
+}
